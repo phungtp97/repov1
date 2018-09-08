@@ -1,3 +1,8 @@
 body{
-    background-color: darkgray
+    background-color: darkgray;
+    padding: 34px;
+}
+ol{
+    display: inline-block;
+    margin-block-start: 40px;
 }
