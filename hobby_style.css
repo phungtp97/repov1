@@ -6,3 +6,6 @@ ol{
     display: inline-block;
     margin-block-start: 40px;
 }
+ul{
+    background-color: #543a16;
+}
